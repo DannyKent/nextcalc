@@ -81,3 +81,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## **Nuevos Desafios** 
 A partir de aqui, se comienzan a desarrollar las ideas, a agregar funcionalidades al programa y a implementarlo en versiones de SO
+
+![alt text](assets/modelo.png)
