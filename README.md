@@ -75,3 +75,9 @@ python main.py
 
 ## **Licencia**  
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.  
+
+
+---
+
+## **Nuevos Desafios** 
+A partir de aqui, se comienzan a desarrollar las ideas, a agregar funcionalidades al programa y a implementarlo en versiones de SO
