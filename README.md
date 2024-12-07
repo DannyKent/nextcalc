@@ -1,15 +1,15 @@
-# nextcalc
-## Implementacion de Calculadora para SO
 
-Esta es la version de la calculadora para Sistemas Operativos, Diseñada por Najash y Desarrollada por la comunidad.
+# **NextCalc**  
+**Versión:** 1.0  
+Desarrollado por: **Danny Villarreal (Najash Code)**  
 
-# Licencia de Uso
- Esta Calculadora esta bajo la licencia GNU y es abierta al publico desarrollador para mejoras e implementacion.
+## **Descripción**  
+NextCalc es una calculadora moderna y funcional desarrollada en Python con la biblioteca Tkinter. Su interfaz está inspirada en el diseño minimalista y cuenta con funcionalidades básicas y avanzadas, como cálculos matemáticos y un menú interactivo.  
 
-## Lenguaje de Programacion y Herramientas Utilzadas.
-EL Lenguaje usado es Python, usando como editor Visual Studio Code
+---
 
-# Estructura del Proyecto
+## **Estructura del Proyecto**  
+```
 nextcalc/
 │── README.md              # Documentación principal del proyecto
 │── requirements.txt       # Dependencias del proyecto
@@ -26,3 +26,52 @@ nextcalc/
 │   └── utils.py           # Funciones auxiliares
 └── tests/                 # Pruebas unitarias
     └── test_logic.py      # Pruebas de la lógica de cálculo
+```
+
+---
+
+## **Instalación**  
+### **Requisitos Previos:**  
+- Python 3.x  
+- Tkinter (preinstalado con Python)  
+
+### **Paso 1: Clonar el Repositorio**  
+```bash
+git clone https://github.com/tuusuario/nextcalc.git
+cd nextcalc
+```
+
+### **Paso 2: Crear un Entorno Virtual (opcional)**  
+```bash
+python -m venv venv
+source venv/bin/activate  # En Unix/Mac
+venv\Scripts\activate     # En Windows
+```
+
+### **Paso 3: Instalar Dependencias**  
+```bash
+pip install -r requirements.txt
+```
+
+### **Paso 4: Ejecutar la Calculadora**  
+```bash
+python main.py
+```
+
+---
+
+## **Características**  
+- Interfaz inspirada en la funcionalidad y belleza combinada  
+- Cálculos básicos (+, -, *, /, %).  
+- Interfaz personalizable con menú interactivo.  
+- Ventana centrada automáticamente.  
+
+---
+
+## **Contribución**  
+¿Tienes ideas para mejorar NextCalc? ¡Cualquier contribución es bienvenida! Haz un fork, crea una nueva rama y envía tu PR.  
+
+---
+
+## **Licencia**  
+Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.  
